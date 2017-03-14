@@ -124,6 +124,8 @@ A new vector drawing system has been added to Fuse. This allows drawing of curve
 ## ImageFill
 - Fixed a bug where the `MemoryPolicy` given would not be correctly used.
 
+## WebView
+* Fixed issue where Uri schemes set in the unoproj were incorrectly matched and would interfere with irrelevant URLs.
 
 ## 0.47
 
